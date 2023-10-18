@@ -2,9 +2,7 @@
 
 👩🏻‍💻 Web developer 
 
-📜 Web performance newsletter at [web-perf.dev](https://web-perf.dev/newsletter/)
-
-📝 Writes at [pkodmad.hashnode.dev](https://pkodmad.hashnode.dev/)
+📝 Writes at [pkodmad.com](https://pkodmad.com/)
 
 💁‍♀️ Tweets at [pkodmad](https://twitter.com/PKodmad)
 
